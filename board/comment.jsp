@@ -47,7 +47,7 @@
 					<strong>myusername</strong> <span class="text-muted">commented 5 days ago</span>
 				</div>
 				<div class="panel-body" style="padding: inherit;">
-					<textarea placeholder="글쓴이는 댓글이 필요해요!" ></textarea>				
+					<textarea placeholder="글쓴이는 댓글이 필요해요!" style="width: -webkit-fill-available;border: 0px;" ></textarea>				
 				</div>
 				<div class="panel-footer" style="text-align: -webkit-right;">				
 					<button type="submit" class="btn btn-success green"><i class="fa fa-share"></i> Share</button>
